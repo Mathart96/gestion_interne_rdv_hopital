@@ -1,0 +1,22 @@
+.example {
+	background-image: url(img_log/imgfond.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 258px;
+}
+
+.form-group{
+	text-align: center;
+}
+.form-control {
+	background-color: red;
+	color: green;
+	font-style: green;
+	margin-left: 500px;
+	font-size: 20px;
+	height: 30px;
+	width: 250px;
+}
+.enregistrer{
+	text-align: center;
+}
